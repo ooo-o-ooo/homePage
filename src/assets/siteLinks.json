@@ -7,7 +7,7 @@
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "http://47.76.140.20:5244/"
+    "link": "https://pan.onross.com/"
   },
   {
     "icon": "CompactDisc",
@@ -23,11 +23,6 @@
     "icon": "Book",
     "name": "网址集",
     "link": "https://web.imsyy.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
   },
   {
     "icon": "LaptopCode",
